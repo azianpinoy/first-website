@@ -1,0 +1,10 @@
+h1 {
+ color: black;
+ text-align: center;
+}
+.styledFont {
+	color: purple;
+	text-align: right;
+}
+img {
+	border:5px solid red; 
